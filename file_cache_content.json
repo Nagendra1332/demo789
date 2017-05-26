@@ -1,0 +1,22 @@
+{
+ "cached_items": [
+  {
+   "file_size": 256,
+   "identifier": "https://dl-desktop-xcapps.sonymobile.com/production/xc/data/xc-analytics.xml",
+   "last_modified": "Wed, 27 Jan 2016 10:45:37 GMT",
+   "name": "7f5cae8fbb87155a6c13bd2f1447e7791b263d5d"
+  },
+  {
+   "file_size": 62643,
+   "identifier": "https://dl-desktop-xcapps.sonymobile.com/production/xc/data/xc-cloud-capability.xml",
+   "last_modified": "Wed, 03 May 2017 13:20:48 GMT",
+   "name": "ab7d24a8b1c667cc25629af9d7aa60396a2947b6"
+  },
+  {
+   "file_size": 64739,
+   "identifier": "https://dl-desktop-xcapps.sonymobile.com/production/xc/data/xc-supported-devices.xml",
+   "last_modified": "Wed, 03 May 2017 08:08:48 GMT",
+   "name": "2558ac11cfcc62dbd5779672c1081b8a0faea1ad"
+  }
+ ]
+}
